@@ -16,8 +16,10 @@ Student developer interested in web & mobile apps. Currently learning by buildin
 ## Projects
 
 - [Abstrakcja](https://abstrakcja.net.pl/)
-a static landing page made for a local art studio %20 [the repo](https://github.com/JablonskiJakubb/Abstrakcja-landing-page)
+a static landing page made for a local art studio
+###[the repo](https://github.com/JablonskiJakubb/Abstrakcja-landing-page)
 
 - [Dla Niej](https://dla-niej-alt.netlify.app/)
-a static landing page made for a local gynecologist %20 [the repo](https://github.com/JablonskiJakubb/Dla-Niej-landing-page)
+a static landing page made for a local gynecologist
+###[the repo](https://github.com/JablonskiJakubb/Dla-Niej-landing-page)
 
