@@ -1,5 +1,5 @@
 # Hi, I'm Jacob
-## Student developer interested in web & mobile apps. Currently learning by building things.
+Student developer interested in web & mobile apps. Currently learning by building things.
 
 ## Technologies I Work With
 - HTML
