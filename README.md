@@ -7,9 +7,9 @@ Student developer interested in web & mobile apps. Currently learning by buildin
 - Python
 - C#
 - Java
+- ![Static Badge](https://img.shields.io/badge/:badgeContent)
 
 ## Currently Learning
-- Making sense of JavaScript and Vue
 - Building mobile apps with Kotlin for Android
 - Exploring Vue.js for frontend development
 
@@ -17,9 +17,9 @@ Student developer interested in web & mobile apps. Currently learning by buildin
 
 - [Abstrakcja](https://abstrakcja.net.pl/)
 a static landing page made for a local art studio
-  [the repo](https://github.com/JablonskiJakubb/Abstrakcja-landing-page)
+    [the repo](https://github.com/JablonskiJakubb/Abstrakcja-landing-page)
 
 - [Dla Niej](https://dla-niej-alt.netlify.app/)
 a static landing page made for a local gynecologist
-  [the repo](https://github.com/JablonskiJakubb/Dla-Niej-landing-page)
+    [the repo](https://github.com/JablonskiJakubb/Dla-Niej-landing-page)
 
