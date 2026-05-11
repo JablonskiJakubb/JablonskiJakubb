@@ -1,16 +1,25 @@
-## Hi there 👋
+Hi, I'm [Your Name] 👋
+Student developer interested in web & mobile apps. Currently learning by building things.
 
-<!--
-**JablonskiJakubb/JablonskiJakubb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Currently Learning
 
-Here are some ideas to get you started:
+Making sense of JavaScript (the good and the weird parts)
+Building mobile apps with Kotlin for Android
+Exploring Vue.js for frontend development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🛠️ Technologies I Work With
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+
+📌 Projects
+ProjectDescriptionProject NameShort one-line descriptionProject NameShort one-line descriptionProject NameShort one-line description
+
+📊 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default&hide_border=true&count_private=true" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=default&hide_border=true" height="150"/>
