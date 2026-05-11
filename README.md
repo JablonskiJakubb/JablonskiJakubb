@@ -2,16 +2,24 @@
 ## Student developer interested in web & mobile apps. Currently learning by building things.
 
 ## Technologies I Work With
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight)
+- HTML
+- Javascript
+- Python
+- C#
+- Java
 
 ## Currently Learning
 - Making sense of JavaScript and Vue
 - Building mobile apps with Kotlin for Android
 - Exploring Vue.js for frontend development
 
-## Technologies I Work With
-
 ## Projects
-ProjectDescriptionProject NameShort one-line descriptionProject NameShort one-line descriptionProject NameShort one-line description
 
-## GitHub Stats
+- [Abstrakcja](https://abstrakcja.net.pl/)
+a static landing page made for a local art studio
+[the repo](
+
+- [Dla Niej](https://dla-niej-alt.netlify.app/)
+a static landing page made for a local gynecologist
+[the repo](
+
